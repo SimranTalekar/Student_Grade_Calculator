@@ -81,3 +81,6 @@ Student-Grade-Calculator/
 |   |__image2
 │
 └── README.md
+# 🎓 Student Grade Calculator
+**(Live Demo)[https://studentgradecalculator-9nqgqkwrauhmhgnfhnzym6.streamlit.app/]**
+A school-level student grade calculator built using C and Python.
